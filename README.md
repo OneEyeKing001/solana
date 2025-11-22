@@ -1,1 +1,1 @@
-# solana
+# solanaSetup Solana project workspace
