@@ -3,3 +3,4 @@ Add Anchor framework configuration
 Create token minting program
 Add wallet integration
 Write unit tests for token program
+Fix transaction signing bug
