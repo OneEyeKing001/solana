@@ -7,3 +7,4 @@ Fix transaction signing bug
 Add transfer functionality
 Update dependencies and SDK version
 Improve error handling
+Update project documentation
